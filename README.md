@@ -1,6 +1,6 @@
 # Photopea.com
 
-Photopea is a free online tool for editing raster :art: graphics with support for **PSD and XCF** files.
+Photopea is a free online tool for editing raster :art: graphics with support for **PSD, XCF and Sketch** files.
 
 Since Photopea is not fully open-source project, this account serves as a place for bug reports and general discussion about the project.
 
