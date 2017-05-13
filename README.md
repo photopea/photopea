@@ -1,10 +1,10 @@
-# Photopea.com
+# [Photopea.com](//www.Photopea.com)
 
 Photopea is a free online tool for editing raster :art: graphics with support for **PSD, XCF and Sketch** files.
 
 Since Photopea is not fully open-source project, this account serves as a place for bug reports and general discussion about the project.
 
-Supported formats: PSD, XCF, PNG, JPG, GIF, WebP, ICO, BMP, PPM/PGM/PBM, TIFF
+Supported formats: PSD, XCF, Sketch, PNG, JPG, GIF, WebP, ICO, BMP, PPM/PGM/PBM, TIFF
 
 - :envelope: support@photopea.com
 - :thumbsup: [facebook.com/photopea](https://facebook.com/photopea)
