@@ -16,4 +16,4 @@ Supported formats: PSD, XCF, Sketch, PNG (APNG), JPG, GIF, WebP, ICO, BMP, PPM/P
 - :thumbsup: [facebook.com/photopea](https://facebook.com/photopea)
 - :bird: [twitter.com/photopeacom](https://twitter.com/photopeacom)
 - :tada: [www.photopea.com](https://www.photopea.com)
-- [API](https://www.photopea.com/api), [Blog](https://blog.photopea.com), [Learn](https://www.photopea.com/learn), [Translations](https://www.photopea.com/translate)
+- :bulb: [API](https://www.photopea.com/api), [Blog](https://blog.photopea.com), [Learn](https://www.photopea.com/learn), [Translations](https://www.photopea.com/translate)
