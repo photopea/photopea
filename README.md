@@ -2,7 +2,7 @@
 
 Photopea is a free online tool for editing raster :art: and vector graphics with support for **PSD, XCF and Sketch** files.
 
-Since Photopea is not fully open-source project, this account serves as a place for bug reports and general discussion.
+Since Photopea is not fully open-source, this account serves as a place for bug reports and general discussion.
 
 Supported formats: 
 - Complex: PSD, XCF, Sketch, XD, CDR, SVG, EPS, PDF, WMF, EMF.
