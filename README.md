@@ -5,8 +5,8 @@ Photopea is a free online tool for editing raster :art: and vector graphics with
 Since Photopea is not fully open-source, this account serves as a place for bug reports and general discussion.
 
 Supported formats: 
-- Complex: PSD, XCF, Sketch, XD, CDR, SVG, EPS, PDF, WMF, EMF.
-- Raster: PNG (APNG), JPG, GIF, WebP, ICO, BMP, PPM/PGM/PBM, TIFF, DNG, DDS.
+- Complex: PSD, XCF, Sketch, XD, PXD, CDR, SVG, EPS, PDF, WMF, EMF.
+- Raster: PNG (APNG), JPG, GIF, WebP, ICO, BMP, PPM/PGM/PBM, TIFF, DNG, DDS, IFF, TGA.
 
 <!-- Right now, Photopea is:
 - the best free image editor
