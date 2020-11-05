@@ -18,5 +18,6 @@ Supported formats:
 - :envelope: support@photopea.com
 - :thumbsup: [facebook.com/photopea](https://facebook.com/photopea)
 - :bird: [twitter.com/photopeacom](https://twitter.com/photopeacom)
+- :orange_book: [reddit.com/r/photopea](https://www.reddit.com/r/photopea)
 - :tada: [www.photopea.com](https://www.photopea.com)
 - :bulb: [API](https://www.photopea.com/api), [Blog](https://blog.photopea.com), [Learn](https://www.photopea.com/learn), [Translations](https://www.photopea.com/translate)
