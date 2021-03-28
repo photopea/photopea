@@ -1,7 +1,7 @@
 ![photopea-logo](https://user-images.githubusercontent.com/79121360/112741096-3d56bd00-8f37-11eb-982d-1866764e642c.png)
 
 
-Photopea is a free online tool for editing raster :art: and vector graphics with support for **PSD, XCF and Sketch** files.
+[Photopea.com](//www.Photopea.com) is a free online tool for editing raster and vector graphics with support for **PSD, AI and Sketch** files.
 
 Since Photopea is not fully open-source, this repository serves as a place for bug reports, feature requests, and general discussion.
 
@@ -20,10 +20,10 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 
 ### Where You Can Find Us
 - :envelope: support@photopea.com
-- :thumbsup: [www.facebook.com/photopea](https://facebook.com/photopea)
-- :bird: [www.twitter.com/photopeacom](https://twitter.com/photopeacom)
-- :orange_book: [www.reddit.com/r/photopea](https://www.reddit.com/r/photopea)
-- :tada: [www.photopea.com](https://www.photopea.com)
+- :thumbsup: [facebook.com/photopea](https://facebook.com/photopea)
+- :bird: [twitter.com/photopeacom](https://twitter.com/photopeacom)
+- :orange_book: [reddit.com/r/photopea](https://www.reddit.com/r/photopea)
+- :tada: [photopea.com](https://www.photopea.com)
 
 ### Other 
 - [API](https://www.photopea.com/api), [Blog](https://blog.photopea.com), [Learn](https://www.photopea.com/learn), [Translations](https://www.photopea.com/translate)
