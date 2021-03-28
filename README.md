@@ -5,6 +5,8 @@ Photopea is a free online tool for editing raster :art: and vector graphics with
 
 Since Photopea is not fully open-source, this repository serves as a place for bug reports, feature requests, and general discussion.
 
+---
+
 ### Supported Formats
 - Complex: PSD, AI, XCF, Sketch, XD, FIG, PXD, CDR, SVG, EPS, PDF, PDN, WMF, EMF.
 - Raster: PNG (APNG), JPG, GIF, WebP, ICO, BMP, PPM/PGM/PBM, TIFF, DDS, IFF, TGA.
@@ -30,7 +32,4 @@ Photopea supports these modern browsers:
 - [Safari](https://www.apple.com/safari/)
 
 ### Other 
-- [API](https://www.photopea.com/api)  
-- [Blog](https://blog.photopea.com)  
-- [Learn](https://www.photopea.com/learn)  
-- [Translations](https://www.photopea.com/translate)
+- [API](https://www.photopea.com/api), [Blog](https://blog.photopea.com), [Learn](https://www.photopea.com/learn), [Translations](https://www.photopea.com/translate)
