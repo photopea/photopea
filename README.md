@@ -18,9 +18,9 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 
 ### Where You Can Find Us
 - :envelope: support@photopea.com
-- :thumbsup: [facebook.com/photopea](https://facebook.com/photopea)
-- :bird: [twitter.com/photopeacom](https://twitter.com/photopeacom)
-- :orange_book: [reddit.com/r/photopea](https://www.reddit.com/r/photopea)
+- :thumbsup: [Facebook](https://facebook.com/photopea)
+- :bird: [Twitter](https://twitter.com/photopeacom)
+- :orange_book: [Reddit](https://www.reddit.com/r/photopea)
 - :tada: [www.photopea.com](https://www.photopea.com)
 ### Requirements
 Photopea supports these modern browsers:
