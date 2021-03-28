@@ -14,22 +14,16 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 
 <!-- Right now, Photopea is:
 - the best free image editor
-- the best free Photoshop alternative
+- the best Photoshop alternative
 - the only way to open Sketch files outsied Mac OS
 - the best image editor for Chromebooks and other low power devices -->
 
 ### Where You Can Find Us
 - :envelope: support@photopea.com
-- :thumbsup: [Facebook](https://facebook.com/photopea)
-- :bird: [Twitter](https://twitter.com/photopeacom)
-- :orange_book: [Reddit](https://www.reddit.com/r/photopea)
+- :thumbsup: [www.facebook.com/photopea](https://facebook.com/photopea)
+- :bird: [www.twitter.com/photopeacom](https://twitter.com/photopeacom)
+- :orange_book: [www.reddit.com/r/photopea](https://www.reddit.com/r/photopea)
 - :tada: [www.photopea.com](https://www.photopea.com)
-### Requirements
-Photopea supports these modern browsers:
-- [Chrome](https://google.com/chrome)
-- [Firefox](https://firefox.com)
-- [Edge](https://www.microsoft.com/en-us/edge)
-- [Safari](https://www.apple.com/safari/)
 
 ### Other 
 - [API](https://www.photopea.com/api), [Blog](https://blog.photopea.com), [Learn](https://www.photopea.com/learn), [Translations](https://www.photopea.com/translate)
