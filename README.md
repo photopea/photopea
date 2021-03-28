@@ -1,7 +1,7 @@
 ![photopea-logo](https://user-images.githubusercontent.com/79121360/112741096-3d56bd00-8f37-11eb-982d-1866764e642c.png)
 
 
-[Photopea.com](//www.Photopea.com) is a free online tool for editing raster and vector graphics with support for **PSD, AI and Sketch** files.
+[Photopea.com](//www.Photopea.com) is a free online tool for editing raster and vector graphics with support for **PSD, AI, and Sketch** files.
 
 Since Photopea is not fully open-source, this repository serves as a place for bug reports, feature requests, and general discussion.
 
