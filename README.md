@@ -24,8 +24,8 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 - :tada: [www.photopea.com](https://www.photopea.com)
 ### Requirements
 Photopea supports these modern browsers:
-- [Chrome](google.com/chrome)
-- [Firefox](firefox.com)
+- [Chrome](https://google.com/chrome)
+- [Firefox](https://firefox.com)
 - [Edge](https://www.microsoft.com/en-us/edge)
 - [Safari](https://www.apple.com/safari/)
 
