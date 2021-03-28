@@ -16,7 +16,7 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 - the only way to open Sketch files outsied Mac OS
 - the best image editor for Chromebooks and other low power devices -->
 
-### Where You Can Find US
+### Where You Can Find Us
 - :envelope: support@photopea.com
 - :thumbsup: [facebook.com/photopea](https://facebook.com/photopea)
 - :bird: [twitter.com/photopeacom](https://twitter.com/photopeacom)
