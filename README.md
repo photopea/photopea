@@ -10,7 +10,7 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 ### Supported Formats
 - Complex: PSD, AI, INDD, XCF, Sketch, XD, FIG, KRI, PXD, CDR, AFPHOTO, SVG, EPS, PDF, PDN, WMF, EMF.
 - Raster: PNG (APNG), JPG, GIF, WebP, ICO, BMP, PPM/PGM/PBM, TIFF, DDS, IFF, ANIM, TGA.
-- Raw: DNG, NEF, CR2, ARW, RAF, GPR, 3FR, FFF.
+- Raw: DNG, NEF, CR2, ARW, RW2, RAF, GPR, 3FR, FFF.
 
 <!-- Right now, Photopea is:
 - the best free image editor
