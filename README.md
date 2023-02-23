@@ -14,6 +14,7 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 
 ### Unsupported Formats
 - Unknown: CAR
+
 There most likely are more that Photopea doesn't support. If you find an unsupported file format, tell us on our [Issues](https://github.com/photopea/photopea/issues)!
 
 <!-- Right now, Photopea is:
