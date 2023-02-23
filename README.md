@@ -12,6 +12,10 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 - Raster: PNG (APNG), JPG, GIF, WebP, ICO, BMP, PPM/PGM/PBM, TIFF, DDS, IFF, ANIM, TGA.
 - Raw: DNG, NEF, CR2, ARW, RW2, RAF, ORF, GPR, 3FR, FFF.
 
+### Unsupported Formats
+- Unknown: CAR
+There most likely are more that Photopea doesn't support. If you find an unsupported file format, tell us on our [Issues](https://github.com/photopea/photopea/issues)!
+
 <!-- Right now, Photopea is:
 - the best free image editor
 - the best Photoshop alternative
