@@ -3,7 +3,7 @@
 
 [Photopea.com](//www.Photopea.com) is a free online tool for editing raster and vector graphics with support for **PSD, AI, and Sketch** files.
 
-Since Photopea is not fully open-source, this repository serves as a place for bug reports, feature requests, and general discussion.
+Since Photopea is not open-source, this repository serves as a place for bug reports, feature requests, and general discussion.
 
 ---
 
