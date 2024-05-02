@@ -11,6 +11,7 @@ Since Photopea is not fully open-source, this repository serves as a place for b
 - Complex: PSD, AI, INDD, XCF, Sketch, XD, FIG, KRI, CLIP, PXD, PXZ, CDR, UFO, Fireworks PNG, AFPHOTO, SVG, EPS, PDF, PDN, WMF, EMF.
 - Raster: PNG (APNG), JPG, GIF, WebP, ICO, ICNS, BMP, AVIF, HEIC, JXL, PPM/PGM/PBM, TIFF, DDS, IFF, ANIM, TGA.
 - Raw: DNG, NEF, CR2, CR3, ARW, RW2, RAF, ORF, GPR, 3FR, FFF.
+- Animated: GIF, APNG, MP4, WEBM, MKV (each frame becomes a layer, can be exported back to GIF or MP4).
 
 <!-- Right now, Photopea is:
 - the best free image editor
